@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/0698009f-43b3-4b15-8165-cacb246b4abc)
 Q1 (미완성) Immediate Mode
 
-![image](https://github.com/user-attachments/assets/ecb3e55b-4e56-4cb1-a78c-68f43e46980d)
+![image](https://github.com/user-attachments/assets/77337bca-fb33-4a5f-a416-bfb887b80be4)
 Q2 Vertex Arrays
 
 하나의 프로젝트에 main파일이 2개 있습니다.
